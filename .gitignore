@@ -1,0 +1,10 @@
+*.pyc
+dist
+*.egg-info
+.svn
+.svnignore
+.svnexternals
+build
+.venv_*
+django_autoclean.egg-info
+.idea
